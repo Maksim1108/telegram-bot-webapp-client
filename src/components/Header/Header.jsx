@@ -9,12 +9,6 @@ const Header = () => {
 
   return (
     <header className='header'>
-      <Button onClick={onClose}></Button>
-      <span className='username'>
-        {user?.username}
-      </span>
-      <Link to='products'>GO TO PL</Link>
-      <Link to='form'>GO TO FORM</Link>
     </header>
   )
 }

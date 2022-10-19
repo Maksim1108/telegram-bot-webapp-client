@@ -3,7 +3,7 @@ import './ProductList.css'
 
 const ProductList = () => {
   return (
-    <div>fdsfsf</div>
+    <div></div>
   )
 }
 
